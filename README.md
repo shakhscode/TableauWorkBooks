@@ -8,4 +8,6 @@
 - Pyhton visualization projects.
 - Excel dashboards.
 
-## 
+## Problem Task 1
+Create a visualization report where management will be able to see employee performance to decide bonus amount based on regions and sales performance.
+
