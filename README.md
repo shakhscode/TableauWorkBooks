@@ -5,7 +5,7 @@
 - Using Excel charts.
 ### Here in this repository I pushed some of my tableau visualization workbooks. 
 ### You can also check
-- [Pyhton visualization projects](https://github.com/shakhscode/TableauWorkBooks)
+- [Pyhton visualization projects](https://github.com/shakhscode)
 - Excel dashboards.
 
 ## Problem Task 1
