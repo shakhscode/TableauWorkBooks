@@ -12,5 +12,9 @@
 Create a visualization report where management will be able to see employee performance to decide bonus amount based on regions and sales performance.
 - Detailed business statement and dataset can be found in the directory **ProblemTask1**. 
 - To solve this businees problem first few calculated fields and then vizualizations were created. 
+### Required vizualization.
+![Result](https://github.com/shakhscode/TableauWorkBooks/blob/main/ProblemTask1/viz1.png)
+
+## Problem Task 2
 
 
