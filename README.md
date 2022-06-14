@@ -4,7 +4,8 @@
 - Using Tableau vizies.
 - Using Excel charts.
 ### Here in this repository I pushed some of my tableau visualization workbooks. 
-### You can also check
+**Acknowledgement:** I learnt basics of Tableau from a [Udemy Course](https://www.udemy.com/share/10472C3@WwN7QNyD5lykgkFXacYtHiISqmJVFUggItojJLyKnqayQ2ue3j2HbIj6HaQN3dSA). I want to thank the course instructor for providing the datasets and sharing his knowledge through the course.
+### You can also check my
 - [Pyhton visualization projects](https://github.com/shakhscode)
 - Excel dashboards.
 
